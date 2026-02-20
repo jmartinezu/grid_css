@@ -45,5 +45,13 @@ body {
 .contenedor {
     display: grid;
     grid-template: 
-        "encabezado" 100px;
+        "encabezado" 100px
+        "navegacion" 50px
+        "menu_lateral" 100px
+        "articulo" auto
+        "pie_de_pagina" 100px
+
+
+
+
 }
